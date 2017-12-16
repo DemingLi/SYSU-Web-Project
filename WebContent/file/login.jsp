@@ -63,13 +63,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
         <div class="logged-in-wrapper" id="loggedInWrapper">
 
         </div>
-        <!-- logged-in-wrapper end-->
-
-       <!--  <div class="logged-out-wrapper" id="loggedOutWrapper" data-remote="http://www." data-tipid="headLoginDialog" data-width="235" data-show="mouseenter" data-adjusty="-12">
-            <a href="javascript:;" rel="nofollow" class="ln-top-login"> 注册/登录 </a>
-
-        </div> -->
-        <!-- logged-out-wrapper -->
+        
     </div>
 </div>
 <!--/// header end --><!-- container start -->
